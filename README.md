@@ -1,4 +1,4 @@
-A repo from command line directly to a GitHub repo!
+A repo from cmd line to a GitHub repo!
 ===================================================
 
 Tutorials
