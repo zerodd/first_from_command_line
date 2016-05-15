@@ -1,6 +1,3 @@
-A repo from cmd line to a GitHub repo!
-===================================================
-
 Tutorials
 ----------
   - [GitHub](1)
